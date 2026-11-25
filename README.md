@@ -1,16 +1,17 @@
-## Hi there 👋
+# Iñigo Fuentes Zarza
 
-<!--
-**ifuenteszarza/ifuenteszarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Diseñador y desarrollador web freelance en Donostia - San Sebastián.**
 
-Here are some ideas to get you started:
+Ayudo a empresas y profesionales a crear, mantener y mejorar sus páginas web y tiendas online. También colaboro con agencias como apoyo externo para proyectos web y tareas técnicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## En qué trabajo
+
+- Diseño y desarrollo web con WordPress y Elementor.
+- Tiendas online con PrestaShop.
+- Mantenimiento, soporte y seguridad web.
+- SEO y optimización del rendimiento.
+- Automatizaciones con IA aplicadas a procesos web.
+
+## Proyectos y contacto
+
+Puedes conocer mis trabajos en [ifuenteszarza.com/proyectos](https://ifuenteszarza.com/proyectos/) o escribirme a [hola@ifuenteszarza.com](mailto:hola@ifuenteszarza.com).
